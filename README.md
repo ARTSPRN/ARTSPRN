@@ -1,4 +1,4 @@
-# Hello there! 👋
+<h1 align="center">Hello there!  👋</h1>
 
 I'm **ARTSPRN**, a passionate first-year student at ITMO University's Faculty of Information Technologies and Programming. 
 
