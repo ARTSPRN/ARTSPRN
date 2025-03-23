@@ -1,8 +1,13 @@
 <h1 align="center">Hello there!  👋</h1>
 
+<picture>
+  <img src="assets/readme_video.gif" title="It's me!" height="330px" align="right">
+</picture>
+
+
 I'm **ARTSPRN**, a passionate first-year student at ITMO University's Faculty of Information Technologies and Programming. 
 
-- 🌱 Actively sharpening my skills in **C++, C, and C#**.
+- 🌱 Actively sharpening my skills in **C, C++, and C#**.
 - 💡 Enthralled by **Software Engineering** and **Unity 3D**, with a keen focus on **backend** and **game development**.
 - 🤝 Open to collaborating on exciting student projects and open-source initiatives.
 - 🎯 Always eager to conquer new challenges and contribute to meaningful projects.
