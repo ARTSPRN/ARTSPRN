@@ -14,3 +14,5 @@ I'm **ARTSPRN**, a passionate first-year student at ITMO University's Faculty of
 - 📫 Get in touch via email: [artyom-suprun-yndx@ya.ru](mailto:artyom-suprun-yndx@ya.ru) or connect on [Telegram](https://t.me/softduckling).
 
 **Fun Fact:** Kittens start purring just a few days after birth, even when their eyes are still closed. This is not just a sign of contentment — the vibrations from purring can promote tissue healing and strengthen the immune system. So this cute sound helps them cope with the early difficulties in life!
+
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=ARTSRPN&color=green" alt="Profile Views" /> </div>
