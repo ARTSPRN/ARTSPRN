@@ -5,7 +5,7 @@
 </picture>
 
 
-I'm **ARTSPRN**, a passionate first-year student at ITMO University's Faculty of Information Technologies and Programming. 
+I'm **ARTSPRN**, a passionate second-year student at ITMO University's Faculty of Information Technologies and Programming. 
 
 - 🌱 Actively sharpening my skills in **C, C++, and C#**.
 - 💡 Enthralled by **Software Engineering** and **Unity 3D**, with a keen focus on **backend** and **game development**.
